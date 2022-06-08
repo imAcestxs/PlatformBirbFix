@@ -1,4 +1,4 @@
-# PlatformBirb
+# Platform Birb
 Original Developer: Troyy_#2028                                                                                
 Modified Developer: ace!#0666
 
